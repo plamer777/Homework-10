@@ -12,8 +12,11 @@ __The composition of project:__
 4) requirements.txt
 
 _candidates.json_ - the source of candidates' data
+
 _classes.py_ - a unit containing class CandidateFinder to prepare and start Flask app
+
 _main.py_ - a main app file to start app
+
 _requirements.txt_ - list of units demanded to start the app
 
 ---
